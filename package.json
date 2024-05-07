@@ -1,0 +1,17 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "This is a learning based project where i learn to make crud apis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Vijay Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
