@@ -19,7 +19,7 @@ const errorHandler = (err, req, res, next) => {
 
             break;
         default:
-            console.log(`All working fine`);
+            // console.log(`All working fine`);
     }
 }
 
