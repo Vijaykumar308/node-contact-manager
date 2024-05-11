@@ -19,7 +19,6 @@ app.use("/api/contacts",contactRouters);
 app.use(errorHandler);
 
 
-
 // Server Setup;
 app.listen(PORT, () => {
     console.log(`Server running on ${PORT}`)
