@@ -16,7 +16,7 @@ const userModel = mongoose.Schema({
         }
     },
     {
-        timestamp: true
+        timestamps: true
     }
 )
 
